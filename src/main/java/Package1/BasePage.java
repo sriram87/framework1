@@ -44,7 +44,7 @@ public class BasePage {
 			}
 		}
 
-		public String getTxtAttribute(WebElement element) {
+		public String getTxtAttribute(WebElement element)12 {
 			return element.getAttribute("value");
 		}
 
